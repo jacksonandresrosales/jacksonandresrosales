@@ -32,18 +32,26 @@ Una aplicación web full-stack para cargar, procesar asíncronamente y auditar l
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 💡 Aptitudes y Enfoque
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacksonandresrosales&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Jackson" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonandresrosales&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Developer GIF" />
 </div>
+
+<br>
+
+Me destaco por tener una mentalidad orientada a la resolución de problemas y al aprendizaje continuo. Creo firmemente que un buen desarrollador no es el que lo sabe todo de memoria, sino el que sabe cómo encontrar la mejor solución y adaptarse a las nuevas tecnologías.
+
+*   **Autodidacta:** Disfruto investigando y aprendiendo por mi cuenta para superar cualquier reto técnico.
+*   **Atención al detalle:** Me gusta que el código sea limpio y que la experiencia del usuario sea impecable.
+*   **Proactivo:** Siempre busco la manera de aportar ideas y mejorar los proyectos en los que trabajo.
 
 ---
 
 ### 📫 Conecta conmigo
 
-<!-- Recuerda actualizar estos enlaces con tus datos reales -->
-<a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<div align="center">
+  <a href="mailto:jacksonandresrosales@gmail.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jackson-oca%C3%B1a-5a3011388/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/jacksonandresrosales"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
