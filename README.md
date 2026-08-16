@@ -40,11 +40,12 @@ Una aplicación web full-stack para cargar, procesar asíncronamente y auditar l
 
 <br>
 
-Me destaco por tener una mentalidad orientada a la resolución de problemas y al aprendizaje continuo. Creo firmemente que un buen desarrollador no es el que lo sabe todo de memoria, sino el que sabe cómo encontrar la mejor solución y adaptarse a las nuevas tecnologías.
+Me destaco por tener una mentalidad analítica y un fuerte enfoque en la creación de software seguro y confiable. Entiendo que en el desarrollo de aplicaciones empresariales y financieras (Fintech), la calidad del código y la seguridad de los datos no son opcionales, son la prioridad.
 
-*   **Autodidacta:** Disfruto investigando y aprendiendo por mi cuenta para superar cualquier reto técnico.
-*   **Atención al detalle:** Me gusta que el código sea limpio y que la experiencia del usuario sea impecable.
-*   **Proactivo:** Siempre busco la manera de aportar ideas y mejorar los proyectos en los que trabajo.
+*   **Orientación a la Seguridad y Calidad:** Desarrollo pensando siempre en la integridad de los datos, aplicando buenas prácticas de autenticación, validación y trazabilidad (auditoría).
+*   **Pensamiento Analítico:** Disfruto desglosando lógicas de negocio complejas para transformarlas en código limpio, mantenible y eficiente.
+*   **Innovación y Aprendizaje Continuo:** Soy autodidacta y me adapto rápidamente a nuevas tecnologías para aportar soluciones modernas en entornos de transformación digital.
+*   **Responsabilidad y Metodología:** Entiendo el impacto del software en el usuario final, por lo que trabajo con un alto nivel de atención al detalle.
 
 ---
 
