@@ -43,7 +43,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/jacksonandresrosales/Sentry">
-        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/Sentry" alt="Sentry" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonandresrosales&repo=Sentry&show_owner=false&bg_color=0D1117&border_color=1F6F5B&title_color=34D399&text_color=C9D1D9&icon_color=2DD4BF" alt="Sentry" width="100%" />
       </a>
       <br/><br/>
       <b>Sentry — Auditoría de llamadas con IA</b><br/>
@@ -54,7 +54,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jacksonandresrosales/iBatch">
-        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/iBatch" alt="iBatch" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonandresrosales&repo=iBatch&show_owner=false&bg_color=0D1117&border_color=1F6F5B&title_color=34D399&text_color=C9D1D9&icon_color=2DD4BF" alt="iBatch" width="100%" />
       </a>
       <br/><br/>
       <b>iBatch — Procesamiento de lotes financieros</b><br/>
@@ -67,7 +67,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/jacksonandresrosales/MiSer">
-        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/MiSer" alt="MiSer" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonandresrosales&repo=MiSer&show_owner=false&bg_color=0D1117&border_color=1F6F5B&title_color=34D399&text_color=C9D1D9&icon_color=2DD4BF" alt="MiSer" width="100%" />
       </a>
       <br/><br/>
       <b>MiSer — Finanzas personales</b><br/>
@@ -78,7 +78,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jacksonandresrosales/pokebot">
-        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/pokebot" alt="PokeBot" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonandresrosales&repo=pokebot&show_owner=false&bg_color=0D1117&border_color=1F6F5B&title_color=34D399&text_color=C9D1D9&icon_color=2DD4BF" alt="PokeBot" width="100%" />
       </a>
       <br/><br/>
       <b>PokeBot — Bot de Discord con IA</b><br/>
@@ -91,7 +91,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/jacksonandresrosales/D-CHOCOLAT">
-        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/D-CHOCOLAT" alt="D'CHOCOLAT" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonandresrosales&repo=D-CHOCOLAT&show_owner=false&bg_color=0D1117&border_color=1F6F5B&title_color=34D399&text_color=C9D1D9&icon_color=2DD4BF" alt="D'CHOCOLAT" width="100%" />
       </a>
       <br/><br/>
       <b>D'CHOCOLAT — Tienda de chocolate artesanal</b><br/>
@@ -102,7 +102,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jacksonandresrosales/LeagueOfFriends">
-        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/LeagueOfFriends" alt="LeagueOfFriends" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksonandresrosales&repo=LeagueOfFriends&show_owner=false&bg_color=0D1117&border_color=1F6F5B&title_color=34D399&text_color=C9D1D9&icon_color=2DD4BF" alt="LeagueOfFriends" width="100%" />
       </a>
       <br/><br/>
       <b>LeagueOfFriends — Seguimiento de League of Legends</b><br/>
