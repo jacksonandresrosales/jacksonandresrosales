@@ -15,14 +15,6 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Ilustración de un desarrollador trabajando frente a dos monitores" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,100:2DD4BF&height=58&text=Tecnolog%C3%ADas&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Tecnologías" width="100%" />
 </div>
 
@@ -136,10 +128,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonandresrosales&layout=compact&langs_count=8&title_color=34D399&text_color=C9D1D9&bg_color=0D1117&border_color=1F6F5B" width="47%" alt="Lenguajes más usados" />
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:0B3D2E&height=58&text=Contacto&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Contacto" width="100%" />
