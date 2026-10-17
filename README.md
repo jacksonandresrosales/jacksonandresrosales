@@ -1,58 +1,164 @@
-# Hola 👋, soy Jackson Ocaña
-
-**Full-Stack Web Developer | Java & React**
-
-Soy un desarrollador apasionado por el desarrollo web en toda su extensión. Me encanta construir desde interfaces de usuario modernas, interactivas y centradas en la experiencia, hasta la arquitectura del servidor que las hace funcionar de manera rápida y segura. 
-
-Actualmente trabajo creando soluciones web completas utilizando **Next.js/React** en el frontend y **Spring Boot** en el backend. ¡Siempre estoy explorando nuevas tecnologías web para sumar a mi stack!
-
-### 🛠️ Tecnologías y Herramientas
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:0E8A67,100:2DD4BF&height=220&section=header&text=Jackson%20Oca%C3%B1a&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=58&descAlign=50" alt="Jackson Ocaña — Software Engineering Student · Full-Stack Developer" width="100%" />
+</div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=34D399&center=true&vCenter=true&width=760&height=50&lines=Desarrollo+full-stack+con+React+y+Next.js;APIs+seguras+con+Java+y+Spring+Boot;Interfaces+cuidadosas+y+accesibles;Datos+%C3%ADntegros+en+PostgreSQL" alt="Desarrollo full-stack con React, Next.js, Java, Spring Boot y PostgreSQL" />
+</div>
+
+<p align="center">
+  Estudiante de Ingeniería en Software en la Universidad de Guayaquil. Construyo aplicaciones web y de escritorio completas: modelo de datos, API, interfaz y despliegue. Me enfoco en sistemas donde la seguridad y la integridad de la información no son negociables, como operaciones financieras y auditoría de datos.
+</p>
+
+<p align="center">
+  <i>Seguridad y calidad · Pensamiento analítico · Aprendizaje continuo · Atención al detalle</i>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Ilustración de un desarrollador trabajando frente a dos monitores" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,100:2DD4BF&height=58&text=Tecnolog%C3%ADas&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Tecnologías" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
-
-<br>
-
-### 🚀 Mis Proyectos
-
-**[iBatch](https://github.com/jacksonandresrosales/iBatch)** | *Next.js, Spring Boot, PostgreSQL, Docker*
-Una aplicación web full-stack para cargar, procesar asíncronamente y auditar lotes de transacciones. 
-* Diseñé una arquitectura limpia separando el cliente de una API robusta y segura.
-* Implementé funciones avanzadas como Rate Limiting, prevención de CSRF y sesiones HTTP seguras.
-* 🔗 **[Ver código fuente](https://github.com/jacksonandresrosales/iBatch)** | 🌐 **[Demo en vivo](https://ibatch.vercel.app)**
-
-> ⏳ *Próximamente: Más proyectos web en camino...*
-
----
-
-### 💡 Aptitudes y Enfoque
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Developer GIF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:0B3D2E&height=58&text=Proyectos&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Proyectos" width="100%" />
 </div>
 
-<br>
+<p align="center">
+  Aplicaciones web full-stack, herramientas de escritorio, bots conversacionales y tiendas en línea — cada una con su código y su demo.
+</p>
 
-Me destaco por tener una mentalidad analítica y un fuerte enfoque en la creación de software seguro y confiable. Entiendo que en el desarrollo de aplicaciones empresariales y financieras (Fintech), la calidad del código y la seguridad de los datos no son opcionales, son la prioridad.
-
-*   **Orientación a la Seguridad y Calidad:** Desarrollo pensando siempre en la integridad de los datos, aplicando buenas prácticas de autenticación, validación y trazabilidad (auditoría).
-*   **Pensamiento Analítico:** Disfruto desglosando lógicas de negocio complejas para transformarlas en código limpio, mantenible y eficiente.
-*   **Innovación y Aprendizaje Continuo:** Soy autodidacta y me adapto rápidamente a nuevas tecnologías para aportar soluciones modernas en entornos de transformación digital.
-*   **Responsabilidad y Metodología:** Entiendo el impacto del software en el usuario final, por lo que trabajo con un alto nivel de atención al detalle.
-
----
-
-### 📫 Conecta conmigo
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jacksonandresrosales/Sentry">
+        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/Sentry" alt="Sentry" width="100%" />
+      </a>
+      <br/><br/>
+      <b>Sentry — Auditoría de llamadas con IA</b><br/>
+      <sub>Python · PySide6 · SQLite</sub><br/><br/>
+      Aplicación de escritorio para Windows que encuentra, transcribe y analiza grabaciones telefónicas con reportes auditables. Uso interno para Ecuaconexión.<br/><br/>
+      <a href="https://github.com/jacksonandresrosales/Sentry/releases/latest/download/Sentry_Setup.exe">Descargar</a> ·
+      <a href="https://github.com/jacksonandresrosales/Sentry">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jacksonandresrosales/iBatch">
+        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/iBatch" alt="iBatch" width="100%" />
+      </a>
+      <br/><br/>
+      <b>iBatch — Procesamiento de lotes financieros</b><br/>
+      <sub>Java 21 · Spring Boot · Next.js · PostgreSQL · Docker</sub><br/><br/>
+      Carga, valida, procesa y audita lotes de transacciones CSV con procesamiento asíncrono, roles, rate limiting y trazabilidad persistente.<br/><br/>
+      <a href="https://ibatch.vercel.app">Demo</a> ·
+      <a href="https://github.com/jacksonandresrosales/iBatch">Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jacksonandresrosales/MiSer">
+        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/MiSer" alt="MiSer" width="100%" />
+      </a>
+      <br/><br/>
+      <b>MiSer — Finanzas personales</b><br/>
+      <sub>React · TypeScript · Vite · Firebase · Capacitor</sub><br/><br/>
+      Ingresos, gastos, presupuestos, calendario y metas en una app en español con sincronización en la nube y APK para Android.<br/><br/>
+      <a href="https://mi-ser-one.vercel.app">Demo</a> ·
+      <a href="https://github.com/jacksonandresrosales/MiSer">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jacksonandresrosales/pokebot">
+        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/pokebot" alt="PokeBot" width="100%" />
+      </a>
+      <br/><br/>
+      <b>PokeBot — Bot de Discord con IA</b><br/>
+      <sub>Node.js · TypeScript · Gemini · PostgreSQL</sub><br/><br/>
+      Aprende un estilo de escritura a partir de ejemplos aprobados, con panel web de administración, cola persistente de análisis y roles.<br/><br/>
+      <a href="https://pokebot-emqd.onrender.com">Demo</a> ·
+      <a href="https://github.com/jacksonandresrosales/pokebot">Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jacksonandresrosales/D-CHOCOLAT">
+        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/D-CHOCOLAT" alt="D'CHOCOLAT" width="100%" />
+      </a>
+      <br/><br/>
+      <b>D'CHOCOLAT — Tienda de chocolate artesanal</b><br/>
+      <sub>React · Vite</sub><br/><br/>
+      Landing y tienda para una marca ecuatoriana: catálogo con filtros, carrito con envío por WhatsApp y animaciones con soporte de movimiento reducido.<br/><br/>
+      <a href="https://d-chocolat-daw.vercel.app">Demo</a> ·
+      <a href="https://github.com/jacksonandresrosales/D-CHOCOLAT">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jacksonandresrosales/LeagueOfFriends">
+        <img src="https://opengraph.githubassets.com/1/jacksonandresrosales/LeagueOfFriends" alt="LeagueOfFriends" width="100%" />
+      </a>
+      <br/><br/>
+      <b>LeagueOfFriends — Seguimiento de League of Legends</b><br/>
+      <sub>Next.js · TypeScript</sub><br/><br/>
+      En desarrollo: sigue el progreso de jugadores, compáralo con amigos y crea retos privados, con modelo relacional documentado.<br/><br/>
+      <a href="https://league-of-friends-weld.vercel.app">Demo</a> ·
+      <a href="https://github.com/jacksonandresrosales/LeagueOfFriends">Código</a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jacksonandresrosales@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,100:2DD4BF&height=58&text=Estad%C3%ADsticas&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Estadísticas" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacksonandresrosales&show_icons=true&rank_icon=github&title_color=34D399&text_color=C9D1D9&icon_color=2DD4BF&bg_color=0D1117&border_color=1F6F5B" width="47%" alt="Estadísticas de GitHub" />
+  <img src="https://streak-stats.demolab.com?user=jacksonandresrosales&background=0D1117&border=1F6F5B&stroke=1F6F5B&ring=34D399&fire=2DD4BF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=34D399&sideLabels=C9D1D9&dates=8B949E&card_width=470" width="47%" alt="Racha de contribuciones" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonandresrosales&layout=compact&langs_count=8&title_color=34D399&text_color=C9D1D9&bg_color=0D1117&border_color=1F6F5B" width="47%" alt="Lenguajes más usados" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:0B3D2E&height=58&text=Contacto&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Contacto" width="100%" />
+</div>
+
+<p align="center">
+  ¿Colaboramos en un proyecto o buscas un desarrollador full-stack? Escríbeme.
+</p>
+
+<p align="center">
+  <a href="mailto:jacksonandresrosales@gmail.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
   <a href="https://www.linkedin.com/in/jackson-oca%C3%B1a-5a3011388/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/jacksonandresrosales"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jacksonandresrosales&style=for-the-badge&color=10B981&label=VISITAS" alt="Visitas al perfil" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:0E8A67,100:0B3D2E&height=150&section=footer" width="100%" alt="" />
 </div>
