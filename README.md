@@ -140,7 +140,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jacksonandresrosales&style=for-the-badge&color=10B981&label=VISITAS" alt="Visitas al perfil" />
+  <img src="https://hits.sh/github.com/jacksonandresrosales.svg?label=VISITAS&color=34d399&style=for-the-badge" alt="Visitas al perfil" />
 </p>
 
 <div align="center">
