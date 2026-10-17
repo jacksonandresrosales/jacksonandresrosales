@@ -15,6 +15,10 @@
 </p>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/jacksonandresrosales/jacksonandresrosales/main/assets/terminal-crt.svg" width="100%" alt="Terminal CRT de Jackson Ocaña con escritura animada y cursor parpadeante" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,100:2DD4BF&height=58&text=Tecnolog%C3%ADas&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Tecnologías" width="100%" />
 </div>
 
