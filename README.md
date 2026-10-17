@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:0E8A67,100:2DD4BF&height=220&section=header&text=Jackson%20Oca%C3%B1a&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=58&descAlign=50" alt="Jackson Ocaña — Software Engineering Student · Full-Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3D,50:1E40AF,100:60A5FA&height=220&section=header&text=Jackson%20Oca%C3%B1a&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=58&descAlign=50" alt="Jackson Ocaña — Software Engineering Student · Full-Stack Developer" width="100%" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,100:2DD4BF&height=58&text=Tecnolog%C3%ADas&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Tecnologías" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1E3D,100:60A5FA&height=58&text=Tecnolog%C3%ADas&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Tecnologías" width="100%" />
 </div>
 
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:0B3D2E&height=58&text=Proyectos&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Proyectos" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:0B1E3D&height=58&text=Proyectos&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Proyectos" width="100%" />
 </div>
 
 <p align="center">
@@ -123,7 +123,7 @@
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,100:2DD4BF&height=58&text=Estad%C3%ADsticas&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Estadísticas" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1E3D,100:60A5FA&height=58&text=Estad%C3%ADsticas&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Estadísticas" width="100%" />
 </div>
 
 <p align="center">
@@ -134,7 +134,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:0B3D2E&height=58&text=Contacto&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Contacto" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:0B1E3D&height=58&text=Contacto&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Contacto" width="100%" />
 </div>
 
 <p align="center">
@@ -152,5 +152,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:0E8A67,100:0B3D2E&height=150&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:1E40AF,100:0B1E3D&height=150&section=footer" width="100%" alt="" />
 </div>
