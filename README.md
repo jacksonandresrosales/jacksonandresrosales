@@ -1,13 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3D,50:1E40AF,100:60A5FA&height=220&section=header&text=Jackson%20Oca%C3%B1a&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=58&descAlign=50" alt="Jackson Ocaña — Software Engineering Student · Full-Stack Developer" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=34D399&center=true&vCenter=true&width=760&height=50&lines=Desarrollo+full-stack+con+React+y+Next.js;APIs+seguras+con+Java+y+Spring+Boot;Interfaces+cuidadosas+y+accesibles;Datos+%C3%ADntegros+en+PostgreSQL" alt="Desarrollo full-stack con React, Next.js, Java, Spring Boot y PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/jacksonandresrosales/jacksonandresrosales/main/assets/header-crt.svg" width="100%" alt="Jackson Ocaña — Estudiante de Ingeniería en Software · Full-Stack Developer" />
 </div>
 
 <p align="center">
-  Estudiante de Ingeniería en Software en la Universidad de Guayaquil. Construyo aplicaciones web y de escritorio completas: modelo de datos, API, interfaz y despliegue. Me enfoco en sistemas donde la seguridad y la integridad de la información no son negociables, como operaciones financieras y auditoría de datos.
+  Construyo aplicaciones web y de escritorio de principio a fin: modelo de datos, API, interfaz y despliegue.
 </p>
 
 <p align="center">
@@ -15,11 +11,11 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jacksonandresrosales/jacksonandresrosales/main/assets/terminal-crt.svg" width="100%" alt="Terminal CRT de Jackson Ocaña con escritura animada y cursor parpadeante" />
+  <img src="https://raw.githubusercontent.com/jacksonandresrosales/jacksonandresrosales/main/assets/terminal-crt.svg" width="100%" alt="Terminal CRT animada con escritura y cursor parpadeante" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1E3D,100:60A5FA&height=58&text=Tecnolog%C3%ADas&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Tecnologías" width="100%" />
+  <img src="https://raw.githubusercontent.com/jacksonandresrosales/jacksonandresrosales/main/assets/seccion-tecnologias.svg" width="100%" alt="Tecnologías" />
 </div>
 
 <p align="center">
@@ -40,12 +36,8 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:0B1E3D&height=58&text=Proyectos&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Proyectos" width="100%" />
+  <img src="https://raw.githubusercontent.com/jacksonandresrosales/jacksonandresrosales/main/assets/seccion-proyectos.svg" width="100%" alt="Proyectos" />
 </div>
-
-<p align="center">
-  Aplicaciones web full-stack, herramientas de escritorio, bots conversacionales y tiendas en línea — cada una con su código y su demo.
-</p>
 
 <table>
   <tr>
@@ -123,7 +115,7 @@
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1E3D,100:60A5FA&height=58&text=Estad%C3%ADsticas&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Estadísticas" width="100%" />
+  <img src="https://raw.githubusercontent.com/jacksonandresrosales/jacksonandresrosales/main/assets/seccion-estadisticas.svg" width="100%" alt="Estadísticas" />
 </div>
 
 <p align="center">
@@ -134,7 +126,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:0B1E3D&height=58&text=Contacto&fontSize=26&fontColor=FFFFFF&animation=fadeIn" alt="Contacto" width="100%" />
+  <img src="https://raw.githubusercontent.com/jacksonandresrosales/jacksonandresrosales/main/assets/seccion-contacto.svg" width="100%" alt="Contacto" />
 </div>
 
 <p align="center">
@@ -152,5 +144,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:1E40AF,100:0B1E3D&height=150&section=footer" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/jacksonandresrosales/jacksonandresrosales/main/assets/footer-crt.svg" width="100%" alt="Fin del perfil" />
 </div>

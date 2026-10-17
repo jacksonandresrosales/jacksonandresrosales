@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" role="img" aria-label="Terminal CRT de Jackson Ocaña">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" role="img" aria-label="Terminal CRT animada">
   <defs>
     <clipPath id="type-line">
       <rect x="28" y="48" width="0" height="32">
-        <animate attributeName="width" from="0" to="192" begin="0.4s" dur="1.7s" fill="freeze" calcMode="linear" />
+        <animate attributeName="width" from="0" to="122" begin="0.4s" dur="1.3s" fill="freeze" calcMode="linear" />
       </rect>
     </clipPath>
     <clipPath id="screen">
@@ -39,32 +39,32 @@
   <circle cx="30" cy="19.5" r="5.5" fill="#ff5f56" />
   <circle cx="54" cy="19.5" r="5.5" fill="#ffbd2e" />
   <circle cx="78" cy="19.5" r="5.5" fill="#27c93f" />
-  <text x="440" y="25" text-anchor="middle" class="txt" font-size="13" fill="#5f8d68">jackson@dev · zsh</text>
+  <text x="440" y="25" text-anchor="middle" class="txt" font-size="13" fill="#5f8d68">~ · zsh</text>
 
   <g clip-path="url(#screen)">
-    <text x="28" y="72" class="txt" filter="url(#glow)" textLength="189" clip-path="url(#type-line)">
-      <tspan fill="#5cf6ff">jackson@dev:~$ </tspan>
-      <tspan fill="#39ff7a">whoami</tspan>
+    <text x="28" y="72" class="txt" filter="url(#glow)" textLength="117" clip-path="url(#type-line)">
+      <tspan fill="#5cf6ff">~$ </tspan>
+      <tspan fill="#39ff7a">./perfil.sh</tspan>
     </text>
 
-    <text x="28" y="102" class="txt" fill="#39ff7a" opacity="0">&gt; ingeniería en software · universidad de guayaquil
-      <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.35s" fill="freeze" />
+    <text x="28" y="102" class="txt" fill="#39ff7a" opacity="0">&gt; bienvenido a mi perfil de github
+      <animate attributeName="opacity" from="0" to="1" begin="2.0s" dur="0.35s" fill="freeze" />
     </text>
 
-    <text x="28" y="130" class="txt" fill="#2bbf5c" opacity="0">&gt; full-stack: react · next.js · java · spring boot · postgresql
-      <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.35s" fill="freeze" />
+    <text x="28" y="130" class="txt" fill="#2bbf5c" opacity="0">&gt; abajo están los proyectos y sus demos
+      <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.35s" fill="freeze" />
     </text>
 
-    <text x="28" y="158" class="txt" fill="#2bbf5c" opacity="0">&gt; enfoque: seguridad · datos íntegros · código mantenible
-      <animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.35s" fill="freeze" />
+    <text x="28" y="158" class="txt" fill="#2bbf5c" opacity="0">&gt; ¿colaboramos? escríbeme desde contacto
+      <animate attributeName="opacity" from="0" to="1" begin="2.8s" dur="0.35s" fill="freeze" />
     </text>
 
     <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="3.5s" dur="0.35s" fill="freeze" />
-      <text x="28" y="196" class="txt" textLength="144" filter="url(#glow)">
-        <tspan fill="#5cf6ff">jackson@dev:~$ </tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.35s" fill="freeze" />
+      <text x="28" y="196" class="txt" textLength="27" filter="url(#glow)">
+        <tspan fill="#5cf6ff">~$ </tspan>
       </text>
-      <rect x="174" y="182" width="9" height="16" fill="#39ff7a" filter="url(#glow)">
+      <rect x="60" y="182" width="9" height="16" fill="#39ff7a" filter="url(#glow)">
         <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite" />
       </rect>
     </g>

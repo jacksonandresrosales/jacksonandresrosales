@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210" role="img" aria-label="Jackson Ocaña — Estudiante de Ingeniería en Software · Full-Stack Developer">
+  <defs>
+    <clipPath id="screen">
+      <rect x="1.5" y="1.5" width="877" height="207" rx="12" />
+    </clipPath>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.5" fill="#000000" opacity="0.30" />
+    </pattern>
+    <linearGradient id="sweep" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#39ff7a" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#39ff7a" stop-opacity="0.07" />
+      <stop offset="1" stop-color="#39ff7a" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="vignette" cx="0.5" cy="0.5" r="0.75">
+      <stop offset="0.55" stop-color="#000000" stop-opacity="0" />
+      <stop offset="1" stop-color="#000000" stop-opacity="0.45" />
+    </radialGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.4" result="b" />
+      <feMerge>
+        <feMergeNode in="b" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <style>
+      .txt { font-family: 'JetBrains Mono', 'IBM Plex Mono', ui-monospace, Consolas, 'Courier New', monospace; }
+    </style>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="877" height="207" rx="12" fill="#050805" stroke="#143614" stroke-width="1.5" />
+  <path d="M1.5 13 A11.5 11.5 0 0 1 13 1.5 H866 A11.5 11.5 0 0 1 877.5 13 V37 H1.5 Z" fill="#070b07" />
+  <rect x="1.5" y="37" width="876" height="1.5" fill="#143614" />
+
+  <circle cx="30" cy="19.5" r="5.5" fill="#ff5f56" />
+  <circle cx="54" cy="19.5" r="5.5" fill="#ffbd2e" />
+  <circle cx="78" cy="19.5" r="5.5" fill="#27c93f" />
+  <text x="440" y="25" text-anchor="middle" class="txt" font-size="13" fill="#5f8d68">~/perfil</text>
+
+  <g clip-path="url(#screen)">
+    <text x="440" y="118" text-anchor="middle" class="txt" font-size="46" font-weight="700" fill="#39ff7a" filter="url(#glow)">Jackson Ocaña
+      <animate attributeName="opacity" values="1;0.86;1" dur="3.4s" repeatCount="indefinite" />
+    </text>
+    <text x="440" y="154" text-anchor="middle" class="txt" font-size="16" fill="#2bbf5c">Estudiante de Ingeniería en Software · Full-Stack Developer</text>
+    <text x="440" y="178" text-anchor="middle" class="txt" font-size="15" fill="#5f8d68">Universidad de Guayaquil · Guayaquil, Ecuador</text>
+
+    <rect x="2" y="38" width="876" height="169" fill="url(#scan)" />
+    <rect x="2" y="-46" width="876" height="46" fill="url(#sweep)">
+      <animate attributeName="y" from="-46" to="208" dur="7s" repeatCount="indefinite" begin="1.2s" calcMode="linear" />
+    </rect>
+    <rect x="2" y="38" width="876" height="169" fill="#39ff7a" opacity="0.02">
+      <animate attributeName="opacity" values="0.012;0.035;0.012" dur="4s" repeatCount="indefinite" />
+    </rect>
+    <rect x="2" y="38" width="876" height="170" fill="url(#vignette)" />
+  </g>
+</svg>
